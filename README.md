@@ -1,5 +1,5 @@
 # SchoolDB
-sample cod for course at lms.mai.ru
+sample code for course at lms.mai.ru
 
 
 --General Commands:
